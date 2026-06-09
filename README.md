@@ -7,7 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-### 🔗 **[View Live Project Here](https://ais-pre-yizmehnlthezditw4owqzf-919942631129.asia-southeast1.run.app)** 🔗
+### 🔗 **[View Live Project Here](https://otaku-sable.vercel.app)** 🔗
 
 OtakuVault is a fully responsive, highly optimized e-commerce frontend built for anime and manga enthusiasts. It features a sleek "neon-dark" aesthetic, performant animations, simulated Razorpay checkout, and seamless catalog filtering.
 
