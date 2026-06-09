@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="flex flex-col items-center md:items-start space-y-4">
             <h3 className="text-white text-xs font-black uppercase tracking-[0.2em] mb-2">Shop</h3>
             <Link to="/catalog?category=Hoodies" className="text-xs hover:text-neon-purple transition-colors">Hoodies</Link>
-            <Link to="/catalog?category=T-Shirts" className="text-xs hover:text-neon-purple transition-colors">T-Shirts</Link>
+            <Link to="/catalog?category=Oversized T-Shirts" className="text-xs hover:text-neon-purple transition-colors">Oversized T-Shirts</Link>
             <Link to="/catalog?category=Figures" className="text-xs hover:text-neon-purple transition-colors">Figures</Link>
             <Link to="/catalog?category=Mouse Pads" className="text-xs hover:text-neon-purple transition-colors">Mouse Pads</Link>
             <Link to="/catalog?category=Manga" className="text-xs hover:text-neon-purple transition-colors">Manga</Link>
