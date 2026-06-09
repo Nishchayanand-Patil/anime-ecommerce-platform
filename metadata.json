@@ -1,0 +1,6 @@
+{
+  "name": "OtakuVault",
+  "description": "Premium Anime Merchandise Marketplace featuring high-quality products, sleek UI, and a dark-mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
